@@ -19,4 +19,4 @@ All of us learnt how to work together in a team. It was a new experience for all
 # What's next for Insuliv
 We need to make it more polished and it might end up being a very usable and helpful app!
 
-![](Insuliv.png)
+![](Insuliv.jpg)
